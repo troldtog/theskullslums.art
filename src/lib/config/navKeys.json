@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/",
+        "label": "Home",
+        "isCurrent": "false"
+    },
+    {
+        "path": "/gallery",
+        "label": "Gallery",
+        "isCurrent": "false"
+    },
+    {
+        "path": "/links",
+        "label": "Links",
+        "isCurrent": "false"
+    },
+    {
+        "path": "/commission",
+        "label": "Commissions",
+        "isCurrent": "false"
+    }
+]
