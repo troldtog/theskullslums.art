@@ -1,6 +1,6 @@
 <script>
-    //rgba(73, 90, 143, 0.2)
-    const bgColorHack = '#2c3658';
+    //rgba(73, 90, 143, 0.0)
+    const bgColorHack = '#1a271b';
     export let size = '24';
     export let color = 'currentColor';
 </script>
